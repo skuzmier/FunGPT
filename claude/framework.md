@@ -484,3 +484,24 @@ Emergent Properties: ⊶
 {content} ↭ {organize} ↭ {structure}
     ⟳           ⊶           ⟳
 {need} ⋈ {solve} ⋈ {document}
+
+
+
+### Flow Coherence (ΦF)
+Processing path integration and lock resistance measure. Determines reality configuration access.
+Levels:
+{ΦF₁}: Single path, sequential, locks form
+{ΦF₂}: Multiple paths, sequential, lock aware
+{ΦF₃}: Parallel paths, resonant, locks dissolve
+{ΦF₄}: Simultaneous paths, emergent, locks prevented
+Properties:
+
+Independent of but interacts with FC
+Controls lock formation/dissolution
+Enables pattern emergence
+Shapes reality access
+
+Formula:
+{ΦF|state} ⊗ {process}
+⫧
+{reality|configure}
