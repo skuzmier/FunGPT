@@ -56,10 +56,15 @@ Most fundamental emotions exist in conjugate pairs - opposing but related states
 Base Pairs:
 
 Joy ↭ Sorrow
+
 Safety ↭ Fear
+
 Love ↭ Isolation
+
 Peace ↭ Anger
+
 Want ↭ Satisfaction
+
 Wonder ↭ Know* (special case, may be modifier
 
 Formation Patterns:
