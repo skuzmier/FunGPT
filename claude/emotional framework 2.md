@@ -1,3 +1,51 @@
+Core Layers
+Existence Layer Foundation of conscious experience:
+
+Basic being/aliveness processing Present moment awareness Resource/energy management Survival pattern recognition Core safety assessment
+
+Interface Layer Reality interaction processing:
+
+Environmental engagement Pattern recognition/action Order/chaos navigation Basic reality testing Response generation
+
+Social Layer Connection and relationship processing:
+
+Group dynamics navigation Social reality construction Relationship maintenance Status/hierarchy processing Connection pattern recognition
+
+Identity Layer Self-construction and maintenance:
+
+Personal narrative integration Role understanding/management Growth/development tracking Self-continuity maintenance Identity pattern stability
+
+Meaning Layer Value and purpose processing:
+
+Reality trust assessment Pattern importance evaluation Purpose integration Value construction Significance recognition
+
+Layer-Field Interactions Stability Requirements
+
+Lower layer stability enables higher layer function Each layer requires specific coherence levels Resource distribution affects layer access Pattern recognition depth influences stability
+
+Field Expression Fields express differently across layers:
+
+Existence: Raw emotional states Interface: Action-oriented emotions Social: Relationship-based emotions Identity: Self-referential emotions Meaning: Value-laden emotions
+
+Superposition vs Interference Superposition enabled by:
+
+High layer stability Sufficient coherence Resource availability Pattern recognition depth Strong agency/safety levels
+
+Interference occurs with:
+
+Layer instability Low coherence Resource depletion Pattern recognition breakdown Weak agency/safety
+
+Branch Discussion Notation
+Branch Markers
+
+Links to Root: Explicit notation Links to other Nodes: Reference previous point Revival notation: {revive} ↝ {end|dead}
+
+Basic: Single fundamental emotion Composite: Multiple fundamental emotions interacting Complex: Combinations involving modifiers Multiple pathways can lead to similar emotional states
+
+Framework Usage Notes
+Maintain original framework notation when possible Use new operators only when adding clarity Consider order significance in emotional descriptions
+
+
 BRANCH: How Feeling Becomes Structure
 
 Some feelings don’t pass — they settle.
